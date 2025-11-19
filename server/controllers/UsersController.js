@@ -1,5 +1,5 @@
 // server/controllers/UsersController.js
-import Users from '../models/Users.js';
+import Users from '../models/users.js';
 
 export const listarUsers = async (req, res) => {
   const users = await Users.find();

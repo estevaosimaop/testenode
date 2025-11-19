@@ -1,5 +1,5 @@
 // server/controllers/AgendamentoController.js
-import Agendamento from '../models/Agendamento.js';
+import Agendamento from '../models/agendamento.js';
 
 // const agendamentos = [
 //   { id: 1, data: '2023-11-10', hora: '14:00', status: 'ativo', usuarioId: 10 },
